@@ -1,0 +1,21 @@
+{
+  "type": "custom-component",
+  "name": "c1",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": {
+    "assets": [
+      {
+        "id": "MgqHBn24q0kcOGS91juG3",
+        "name": "a"
+      }
+    ],
+    "components": [],
+    "scripts": [],
+    "stylesheets": []
+  },
+  "parentDirectoryId": "12O8DwwaTNZ4lFFasy9ub"
+}
